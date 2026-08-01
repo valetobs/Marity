@@ -1,0 +1,13 @@
+{
+  "MoveStepPixels": 8,
+  "TickIntervalMs": 15,
+  "Acceleration": 1.08,
+  "MaxStepPixels": 40,
+  "NormalizeDiagonalSpeed": true,
+  "StartEnabled": true,
+  "ShowTrayNotifications": true,
+  "RunAtWindowsStartup": false,
+  "ToggleKey": "F8",
+  "LeftClickKey": "RShiftKey",
+  "RightClickKey": "RControlKey"
+}
